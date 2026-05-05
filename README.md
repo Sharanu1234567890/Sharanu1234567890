@@ -1,4 +1,4 @@
-Hi, I'm Sharanu
+ Hi, I'm Sharanu
 
 AI and ML Engineering student with a strong interest in software engineering. I build backend systems and work on machine learning projects to solve real-world problems.  
 
