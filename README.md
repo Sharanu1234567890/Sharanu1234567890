@@ -3,7 +3,9 @@
 
 
 
-<img width="1536" height="1024" alt="Copilot_20260512_192546" src="https://github.com/user-attachments/assets/2f47544b-a4c2-478d-bc4f-c64784d08534" />
+<!-- <img width="1536" height="1024" alt="Copilot_20260512_192546" src="https://github.com/user-attachments/assets/2f47544b-a4c2-478d-bc4f-c64784d08534" /> -->
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/aa078cc8-1d43-4a75-8cc7-3f8382aac25f" />
+
 
 AI and ML Engineering student with a strong interest in software engineering. I build backend systems and work on machine learning projects to solve real-world problems.  
 
