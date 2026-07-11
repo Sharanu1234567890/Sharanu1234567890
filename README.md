@@ -1,6 +1,6 @@
   Hi, I'm Sharanu
 
-
+            
 
 
 <!-- <img width="1536" height="1024" alt="Copilot_20260512_192546" src="https://github.com/user-attachments/assets/2f47544b-a4c2-478d-bc4f-c64784d08534" /> -->
@@ -29,6 +29,4 @@ System Design including CDN, Load Balancer, API Gateway
 Backend Engineering using Spring Boot and Microservices
 Applied Machine Learning
 
-Projects
-
-Check my repositories to see my work and projects in detail.
+ 
